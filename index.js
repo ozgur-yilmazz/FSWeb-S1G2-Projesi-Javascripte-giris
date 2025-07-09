@@ -45,15 +45,15 @@ Aşağıdakileri yap:
 
 /*
 Görev 1d - Çarpma
- 
+
 Aşağıdakileri yaparak carpma isimli fonksiyonu tamamla:   
    1. 2 argüman alsın(a ve b olarak tanımlayabilirsin)
    2. a ve b'yi çarpıp, sonucu dönsün
    3. console.log(carpma(7,4)) ile yazdığın fonsiyonu test edin. Console'da sonucu 28 olarak görmelisin.
 */
 
-function carpma(/*buraya kodunu yazabilirsin*/) {
-  /*buraya kodunu yazabilirsin*/
+function carpma(sayi1 , sayi2) {
+  return sayi1*sayi2;   
 }
 
 /* Görev 2 : Köpeğin Yaşı */
